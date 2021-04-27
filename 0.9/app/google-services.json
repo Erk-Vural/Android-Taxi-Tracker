@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "277208828267",
+    "firebase_url": "https://taxi-t4176-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "taxi-t4176",
+    "storage_bucket": "taxi-t4176.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277208828267:android:57d0c5b09b1db0e8f2242e",
+        "android_client_info": {
+          "package_name": "com.project.alpha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "277208828267-8bhuvta7boib2prnsnfolie8qc04vh7h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWhQSq3ZwXM9fiy62C1Reu9QQYrye5_Mg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "277208828267-8bhuvta7boib2prnsnfolie8qc04vh7h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
